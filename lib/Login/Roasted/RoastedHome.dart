@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_ui_kit/Login/Roasted/RoastedSignUp.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class RoastedHome extends StatefulWidget {
   @override
@@ -87,14 +88,15 @@ class _RoastedHomeState extends State<RoastedHome> {
                                   borderRadius: BorderRadius.circular(26.0)),
                               color: Color(0xff735744),
                               onPressed: () {},
-                              child: Text(
-                                "LOGIN",
-                                style: TextStyle(
-                                    color: Colors.white.withOpacity(0.8),
-                                    fontSize: 22.0,
-                                    letterSpacing: 3.75,
-                                    fontWeight: FontWeight.w600),
-                              ),
+                              child: Text("LOGIN",
+                                  style: GoogleFonts.titilliumWeb(
+                                    textStyle: TextStyle(
+                                      fontSize: 36.0,
+                                      fontWeight: FontWeight.w600,
+                                      color: Color(0xff735744),
+                                      letterSpacing: 0.75,
+                                    ),
+                                  )),
                             ),
                             Padding(
                               padding:

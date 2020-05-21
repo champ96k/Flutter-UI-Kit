@@ -24,7 +24,7 @@ class _RoastedSignUpState extends State<RoastedSignUp> {
                     child: Container(
                       alignment: Alignment.center,
                       child: Text("SIGN UP",
-                          style: GoogleFonts.lato(
+                          style: GoogleFonts.titilliumWeb(  
                             textStyle: TextStyle(
                               fontSize: 36.0,
                               fontWeight: FontWeight.w600,
