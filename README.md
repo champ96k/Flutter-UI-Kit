@@ -14,8 +14,13 @@
 ##### UI Clone
 
 - [X]  [YouTube](https://github.com/champ96k/YouTube-Clone-In-Flutter)
-- [ ] Twitter
-- [ ] Instagram
+- [X]  [WhatsApp Clone](https://github.com/champ96k/WhatsApp--UI-Clone)
+- [X]  [Neumorphic Calculator](https://github.com/champ96k/Flutter-Neumorphic-Calculator-UI)
+- [X]  [Food Delivery Application](https://github.com/champ96k/Food-Delivery-App-UI)
+- [X]  [Amazone Prime Videos](https://github.com/champ96k/prime-videos-Complete-UI)
+- [X]  [Twitter](https://github.com/champ96k/twitter-ui-clone-using-flutter)
+- [X]  [Spotify](https://github.com/champ96k/Spotify-Clone-in-Flutter)
+
 
 
 
