@@ -13,7 +13,7 @@
 
 ##### UI Clone
 
-- [ ] YouTube
+- [X]  [YouTube](https://github.com/champ96k/YouTube-Clone-In-Flutter)
 - [ ] Twitter
 - [ ] Instagram
 
