@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:login_page/UI/SignIn.dart';
+import 'SignIn.dart';
 
 class SignUp extends StatelessWidget {
   @override
