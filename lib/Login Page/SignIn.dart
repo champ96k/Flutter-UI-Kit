@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:login_page/UI/SignUp.dart';
+import 'package:flutter_ui_kit/Profile/Profile.dart';
+
+import 'SignUp.dart';
 
 class SignIn extends StatelessWidget {
   @override
@@ -61,7 +63,14 @@ class SignIn extends StatelessWidget {
                 ),
               ),
               child: MaterialButton(
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => Profile(),
+                    ),
+                  );
+                },
                 child: Text(
                   "Login",
                   style: TextStyle(
